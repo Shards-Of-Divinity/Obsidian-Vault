@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"2b26488a83c04ce6","type":"text","text":"Progression Pipelines","x":-760,"y":-460,"width":240,"height":60,"color":"6"},
+		{"id":"496e0e523e7b1aeb","type":"text","text":"Discover Bone Meal, Redstone, Glowstone Dust, Gunpowder, or Blaze Powder.","x":-760,"y":-380,"width":220,"height":120},
+		{"id":"0123a14f533eb690","type":"text","text":"Unlock Powder Amalgamation recipe","x":-500,"y":-380,"width":180,"height":120},
+		{"id":"3b64637584252127","x":-280,"y":-380,"width":220,"height":120,"type":"text","text":"Place on ground and burn to get Ash of Creation"},
+		{"id":"23272e659adc28ef","x":-20,"y":-380,"width":250,"height":120,"type":"text","text":"Right-click on any log with AoC to transform it into an Antiquated Log"},
+		{"id":"a80aeab0759ce046","type":"text","text":"Burn the log to reduce it to a wand unique to the wood","x":-760,"y":-140,"width":250,"height":120}
+	],
+	"edges":[
+		{"id":"6e4cabe8b8b1be47","fromNode":"496e0e523e7b1aeb","fromSide":"right","toNode":"0123a14f533eb690","toSide":"left"},
+		{"id":"a566d1c55595f123","fromNode":"0123a14f533eb690","fromSide":"right","toNode":"3b64637584252127","toSide":"left"},
+		{"id":"209459f3371fe1bb","fromNode":"3b64637584252127","fromSide":"right","toNode":"23272e659adc28ef","toSide":"left"},
+		{"id":"6bad0cd6ae1909ae","fromNode":"23272e659adc28ef","fromSide":"bottom","toNode":"a80aeab0759ce046","toSide":"top"}
+	]
+}

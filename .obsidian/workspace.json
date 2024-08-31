@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "97713735f96045a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "111771fcfee02677",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e99f91a1acffa133",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "ROADMAP.canvas",
+                "viewState": {
+                  "x": -265,
+                  "y": -240,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "73c7db6ce938fe37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Communicating the Story to the Player.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4390d970410e894b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c93b4be790656e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1451d289c3e74280",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "131f01c6672b6968",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a8755433640c8bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "489dbfe77aa2e0e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "35e29f4a8fe36218",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41ed756c337047e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ROADMAP.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78971486ef81a1bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ROADMAP.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53300e8ae8b4b9af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8ef268831206981f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ROADMAP.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e99f91a1acffa133",
+  "lastOpenFiles": [
+    "Communicating the Story to the Player.md",
+    "General Idea Dump.md",
+    "ROADMAP.canvas"
+  ]
+}
